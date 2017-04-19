@@ -1,0 +1,5 @@
+2017-04-18 11:33:39,904 DEBUG by.epam.info.interpreter.MathClient [main] 1
+2017-04-18 11:33:39,922 DEBUG by.epam.info.interpreter.MathClient [main] 1
+2017-04-18 11:33:39,924 DEBUG by.epam.info.interpreter.MathClient [main] 2*4
+2017-04-18 11:33:39,934 DEBUG by.epam.info.interpreter.MathClient [main] 8
+2017-04-18 11:33:39,935 DEBUG by.epam.info.interpreter.MathClient [main] 2+3*4/(cos(2+3)-3*(2.3-3.43))
